@@ -322,3 +322,5 @@ Processing by PostsController#show as HTML
   Parameters: {"id"=>"1"}
   Rendering posts/show.html.erb within layouts/application
   Rendered posts/show.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 298ms (Views: 284.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.3ms)[0m  [1m[31mrollback transaction[0m
